@@ -12,3 +12,10 @@ But there are still things that Georges is trying to learn:
 
 # Hardware
 Georges uses a Raspberry Pi Zero W kit, along with a Scroll pHAT and a pHAT DAC.
+
+# How to run
+- Clone the repo and run House.py
+- Most of the scripts can be run separately for test purposes. 
+
+
+TODO Write python_requirements.txt
